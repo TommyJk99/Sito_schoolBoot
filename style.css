@@ -1,0 +1,33 @@
+.jumbotron {
+  background-color: #985eff !important;
+  border-radius: 0 !important;
+  height: 820px;
+  margin-right: 0;
+  overflow: hidden;
+}
+.jumbotron img {
+  position: absolute;
+  bottom: 0;
+  right: -6rem;
+  margin: auto;
+  object-fit: contain;
+  width: max-content;
+}
+.btn-primary {
+  color: #007bff !important;
+  background-color: #fff !important;
+  border-color: #007bff !important;
+}
+
+.btn-group-lg > .btn,
+.btn-lg {
+  font-size: 1.1rem !important;
+}
+
+.bg-grey {
+  background-color: rgb(212, 212, 212);
+}
+
+footer {
+  border-bottom: 0rem;
+}
